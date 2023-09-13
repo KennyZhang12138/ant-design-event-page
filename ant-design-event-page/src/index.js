@@ -7,6 +7,7 @@ import AppHeader from "./Header"; // Import the header component
 import AppFooter from "./Footer";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
+//using header and footer and main app body to display each page
 root.render(
   <React.StrictMode>
     <AppHeader />

@@ -2,6 +2,7 @@ import React from "react";
 import { Card, Button } from "antd";
 
 const EventCard = ({ event }) => {
+  //each event card will display the title, a button, date, location, and description
   return (
     <Card
       title={event.title}
