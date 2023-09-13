@@ -5,7 +5,7 @@
     "date": "2023-09-20",
     "location": "Location 1",
     "description": "Description for Event 1",
-    "image": "https://example.com/event1.jpg"
+    "image": "https://media.istockphoto.com/id/530685797/photo/group-of-business-people-standing-and-talking-in-office.jpg?s=1024x1024&w=is&k=20&c=XXvKc176iifipfvuRy6MlEcm2EFDDQHe9HQTofs9pHE="
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "date": "2023-09-25",
     "location": "Location 2",
     "description": "Description for Event 2",
-    "image": "https://example.com/event2.jpg"
+    "image": "https://cdn.pixabay.com/photo/2016/11/23/15/48/audience-1853662_1280.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "date": "2023-09-15",
     "location": "Location 3",
     "description": "Description for Event 3",
-    "image": "https://example.com/event3.jpg"
+    "image": "https://cdn.pixabay.com/photo/2016/11/23/17/56/beach-1854076_640.jpg"
   },
   {
     "id": 4,
@@ -29,6 +29,6 @@
     "date": "2023-09-25",
     "location": "Location 4",
     "description": "Description for Event 4",
-    "image": "https://example.com/event4.jpg"
+    "image": "https://cdn.pixabay.com/photo/2016/08/16/09/53/international-conference-1597531_640.jpg"
   }
 ]
