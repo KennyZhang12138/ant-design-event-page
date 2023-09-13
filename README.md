@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+# Ant-design-event-page 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+Your task is to create a responsive event page using Ant Design and Ant Design Pro. This page should display a list of events in a card-based layout, allowing users to view event details.
+![](./images/ex1.png)
 
-## Available Scripts
+## Table of Contents
+
+- [Installation](#installation)
+- [Requirements](#requirements)
+- [Example](#example)
+- [Contributors](#contributors)
+- [Questions](#questions)
+
+## Installation
+
+First go to the right directory: 
+
+### `cd ant-design-event-page`
+
+If you first time run it you need to install packages:
+
+### `npm install`
 
 In the project directory, you can run:
 
@@ -14,57 +32,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+## Requirements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Setup:** Create a new React application using Ant Design Pro as the base framework. You can use `create-umi` or any other preferred method for setting up your project.
+2. **Event Data:** Mock event data should be included in your project. Use any JSON structure of your choice for this data. Each event should have at least the following properties: `title`, `date`, `location`, `description`, and `image` (URL).
+3. **Card Layout:** Implement a card-based layout to display events. Each event should be represented as a card. You are free to design the card layout as per your creativity but should use Ant Design components for structuring and styling.
+4. **Responsive Design:** Ensure that your page is responsive and looks good on both desktop and mobile devices.
 
-### `npm run build`
+## Example
+![](./images/ex2.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributors
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+:octocat: [Kenny Zhang](https://github.com/KennyZhang12138)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Questions
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+For additional questions, contact me at the email provided below.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub: [Ant-design-event-page ](https://github.com/KennyZhang12138/ant-design-event-page/tree/main)
